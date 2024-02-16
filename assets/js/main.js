@@ -15,5 +15,7 @@ console.log(PI);
 
 
 // Es 2/C
-let radius = 8
+let radius = 8;
 console.log(radius * 2 * PI);
+let circle = (radius * 2 * PI);
+console.log(circle);
